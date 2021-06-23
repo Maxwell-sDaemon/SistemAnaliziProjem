@@ -1,0 +1,45 @@
+module.exports.descriptors = [
+    'Orman',
+    'Adalar Manzaralı ',
+    'Aslan',
+    'Kükreyen',
+    '2s 1m',
+    'Pizza2',
+    'Chilling',
+    'Kösem',
+    'TAT',
+    'Vagon',
+    'Ostim',
+    'Dinarlı',
+    'Adana',
+    'Ocakbaşı',
+    'Aspava',
+    'Beyoğlu',
+    'Obur',
+    'Kahta'
+]
+
+module.exports.places = [
+    'Dönercisi',
+    'Dürümcü',
+    'Lahmacun Salonu',
+    'Köfteci Reşo',
+    'Gece Gözleme',
+    'Nargile Kafe',
+    'Sariyer Börekcisi',
+    'Burger',
+    'Beer',
+    'Fast Food',
+    'Antep Sofrası',
+    'Kafe',
+    'Restoran',
+    'Lokma',
+    'Usta',
+    'Yeri',
+    'Sarayı',
+    'Türkü Evi',
+    'Midyeci',
+    'Et',
+    'Afiyet olsun'
+]
+
